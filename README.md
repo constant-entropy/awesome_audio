@@ -20,17 +20,17 @@ This repository contains a collection of resources and papers on ***Models for S
 [[Paper](https://arxiv.org/abs/2309.07314)]  
 *Published: 13 Sep 2023*
 
-**NU-Wave: A Diffusion Probabilistic Model for Neural Audio Upsampling**
-*Junhyeok Lee, Seungu Han*
-[[Paper](https://arxiv.org/abs/2104.02321)]
-*Published: 6 Apr 2021*
+**NU-Wave: A Diffusion Probabilistic Model for Neural Audio Upsampling**  
+*Junhyeok Lee, Seungu Han*  
+[[Paper](https://arxiv.org/abs/2104.02321)]  
+*Published: 6 Apr 2021*  
 
-**NUWave2: A General Neural Audio Upsampling Model for Various Sampling Rates**
-*Seungu Han, Junhyeok Lee*
-[[Paper](https://arxiv.org/abs/2206.08545)]
+**NUWave2: A General Neural Audio Upsampling Model for Various Sampling Rates**  
+*Seungu Han, Junhyeok Lee*  
+[[Paper](https://arxiv.org/abs/2206.08545)]  
 *Published: 17 Jun 2022*
 
-**Audio super-resolution via vision transformer**
-*Simona Nisticò, Luigi Palopoli & Adele Pia Romano*
-[[Paper](https://link.springer.com/article/10.1007/s10844-023-00833-w)]
-*Published: 12 Dec 2023*
+**Audio super-resolution via vision transformer**  
+*Simona Nisticò, Luigi Palopoli & Adele Pia Romano*  
+[[Paper](https://link.springer.com/article/10.1007/s10844-023-00833-w)]  
+*Published: 12 Dec 2023*  
